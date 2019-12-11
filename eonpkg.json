@@ -3,5 +3,5 @@
   "author": "EonTeam",
   "type": "library",
   "dependencies": [],
-  "targetPlatforms": ["stm32l0", "stm32g0"]
+  "targetPlatforms": ["eoncli/stm32l0", "eoncli/stm32g0"]
 }
